@@ -1,0 +1,115 @@
+.container {
+    background-color: #3f3f3f;
+    color: white;
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-top: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 350px;
+    width: 550px;
+}
+
+.main {
+    padding: 20px 20px 20px 20px;
+
+}
+
+.main~sar {
+
+    font-size: 80%;
+    font-weight: 100;
+}
+
+.spend-container {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.drop {
+    padding-left: 32%;
+}
+
+.drop-down {
+    background-color: #3f3f3f;
+    color: white;
+    cursor: pointer;
+    border: none;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.sar {
+    font-size: 30px;
+    padding-top: 5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.number {
+    padding-right: 80%;
+    font-size: 60px;
+    margin: 5%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.gutter {
+    margin-top: 20px;
+
+}
+
+.range {
+    height: 50px;
+}
+
+.three-chart-bar {
+    /* border: 1px solid green; */
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: -25px;
+    height: 15px;
+    width: 100%;
+    background: linear-gradient(to right, #ffb800, #ffb800 38%, #1ba493 38%, #1ba493 90%, #e44816 20%);
+}
+
+.bars {
+    padding-top: 10%;
+}
+
+.text {
+    font-size: 23px;
+    margin-left: 10px;
+}
+
+.circle-food {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    padding: 7px;
+    background: #ffb800;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.circle-shopping {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    padding: 7px;
+    background: #1ba493;
+    text-align: center;
+    display: inline-block;
+    margin-left: 30px;
+
+}
+
+.circle-movie {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    padding: 7px;
+    background: #e44816;
+    text-align: center;
+    display: inline-block;
+    margin-left: 30px;
+}
